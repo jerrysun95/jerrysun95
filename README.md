@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @jerrysun95
-- 👀 I’m interested in data science
+- 👀 I’m interested in software engineering data science
 - 🌱 I’m currently learning machine learning and AI
 - 📫 Reach me at jerry.sun@utexas.edu
 
