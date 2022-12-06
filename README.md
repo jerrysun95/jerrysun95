@@ -1,5 +1,4 @@
 - 👋 Hi, I’m @jerrysun95
-- 👀 I’m interested in software engineering
 - 📫 Reach me at jerry.sun@utexas.edu
 
 
